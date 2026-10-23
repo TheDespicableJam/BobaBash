@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Lacquer&family=Special+Elite&display=swap');
+
+body{
+    background-image: url("./assets/bg.png");
+    background-size: cover;
+    color: aliceblue ;
+}
+
+#textBox{
+    font-family: "Caveat Brush";
+    font-size: 25px;
+    background-color: rgba(10, 12, 39, 0.75);
+    color:rgb(155, 212, 214);
+    display: block;
+    width: 800px;
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: center; 
+    padding: 10px;
+}
+
+#me{
+    width: 300px;
+    height: auto;
+}
